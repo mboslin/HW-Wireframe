@@ -53,5 +53,9 @@ aside {
 
 body {
   width:960px;
-	background-color: #777;
+    background-color: #777;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
 }
