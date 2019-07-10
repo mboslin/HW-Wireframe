@@ -1,8 +1,8 @@
 .container {
-    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
     content: #ebebeb;
-    background: #777  ;
+    background: #777;
     padding-top: 10px;           
 }
 
